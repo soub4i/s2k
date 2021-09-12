@@ -42,4 +42,4 @@ $ $GOPATH/bin/s2k https://www.w3.org/Press/98Folio.pdf soubai_fgsufgsu@kindle.co
 and that's it.
 
 ## License:
-[The MIT License](./LICENSE)
+[The MIT License](./LICENSE.txt)
